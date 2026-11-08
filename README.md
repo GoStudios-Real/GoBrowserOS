@@ -204,3 +204,11 @@ Guest web pages run in their own Chromium processes (site isolation), so GoBrows
 - `contextIsolation`, `sandbox`, no `nodeIntegration` anywhere; guests are hardened on attach and get a Chrome UA
 - Destructive file ops use the OS Recycle Bin (`shell.trashItem`)
 - Permission requests from web content are denied except sanitized clipboard writes
+
+
+---
+
+## OpenCode
+
+This repository is maintained with [OpenCode](https://opencode.ai).
+Hub: https://gostudios-real.github.io/
